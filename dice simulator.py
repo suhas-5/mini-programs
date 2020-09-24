@@ -1,5 +1,4 @@
 import random
-
 def dice_roller():
     print(random.randint(1,6))
     return 0
